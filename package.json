@@ -1,0 +1,23 @@
+{
+  "name": "mitienda-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robtrucon/mitienda-tests.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robtrucon/mitienda-tests/issues"
+  },
+  "homepage": "https://github.com/robtrucon/mitienda-tests#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.55.0"
+  }
+}
